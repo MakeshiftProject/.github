@@ -2,7 +2,7 @@
 
 Welcome to "The Makeshift Project"! In this organisation, we organise files and databases for our players and collaborators. This organisation is meant to make it easier for player and collaborators to see the databases publicly.
 
-If you want to go to the databases directly, go to [Makeshift](https://github.com/Makeshift-Project/Makeshift)!
+If you want to go to the databases directly, go to [Makeshift](https://github.com/MakeshiftProject/Makeshift)!
 
 ## Credits
 You might be asking, who's involved in making this possible?
